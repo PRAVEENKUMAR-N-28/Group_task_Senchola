@@ -116,96 +116,39 @@
  }
 
 
- /* @media(max-width:1200px){
-   .angry-grid {
-      display: grid; 
+ @media(max-width:1200px){
    
-      grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-      
-      gap: 10px;
-      height: 700px;
-      width: 100%;
-  
-      
+.Part_5_why{
+   padding:20px;
+   padding-top: 0px;
+   height: auto;
+   
+}
+
+   
+   .angry-grid{
+      display: block;
    }
-     
-   #item-0 {
-   
-      background: url(../../../Img/gird_1_why.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px; 
-      grid-row-start: 1;
-      grid-column-start: 1;
-   
-      grid-row-end: 3;
-      grid-column-end: 4;
-      
+   #item-0{
+      height: 150px;
+      margin-bottom: 5px;
    }
-   #item-1 {
-   
-      background: url(../../../Img/gird_why_3.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px; 
-      grid-row-start: 3;
-      grid-column-start: 1;
-   
-      grid-row-end: 7;
-      grid-column-end: 2;
-      
+   #item-1{
+      display: none;
    }
-   #item-2 {
-   
-      background: url(../../../Img/gird_why_4.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px;
-      grid-row-start: 3;
-      grid-column-start: 2;
-   
-      grid-row-end: 5;
-      grid-column-end: 4;
-      
+   #item-2{
+      height: 150px;
+      margin-bottom: 5px;
    }
-   #item-3 {
-   
-      background: url(../../../Img/gird_why_5.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px;
-      grid-row-start: 5;
-      grid-column-start: 2;
-   
-      grid-row-end: 7;
-      grid-column-end: 3;
-      
+   #item-3{
+      height: 150px;
+      margin-bottom: 5px;
    }
-   #item-4 {
-   
-      background: url(../../../Img/gird_why_2.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px;
-      grid-row-start: 1;
-      grid-column-start: 4;
-   
-      grid-row-end: 5;
-      grid-column-end: 5;
-      
+   #item-4{
+      display: none;
    }
-   #item-5 {
-   
-      background: url(../../../Img/gird_why_6.png);
-      background-size: cover;
-      background-repeat: no-repeat;
-      border-radius: 20px;
-      grid-row-start: 5;
-      grid-column-start: 3;
-   
-      grid-row-end: 7;
-      grid-column-end: 5;
-      
+   #item-5{
+      height: 150px;
+      margin-bottom: 5px;                
    }
- } */
+ }

@@ -162,6 +162,7 @@
         position: relative;
         bottom: 0px;
         z-index: 4;
+        padding-right: 0px;
     }
     .part_3_why{
         padding: 30px;
