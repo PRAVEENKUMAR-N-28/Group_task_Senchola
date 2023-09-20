@@ -10,7 +10,7 @@ import './about.css';
 export default function About() {
   return (
  <section >
-<div className='container-fluid p-0 ' >
+<div className='container-fluid about-main p-0 ' >
       
       <img src={require("../Aboutimg/Rectangle 4620.png")} style={{ height: '90vh',width:'100%',margin:'0',padding:'0' }}></img>
       <h2 className='ab1-h1'><span className='sp-1'>W</span>e are the best company for your business ready to take your Brand sky high .</h2>
