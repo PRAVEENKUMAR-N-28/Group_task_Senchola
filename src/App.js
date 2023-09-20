@@ -25,7 +25,7 @@ function App() {
       <Route path="/Why_Senchola" element={<Why_page />}></Route> 
       <Route path="/Singup" element={<Singup />} />
       <Route path="/Form" element={<Forms />}></Route>
-      <Route path='/Home' element={<Home />}></Route>
+      <Route path='/' element={<Home />}></Route>
      
     
 

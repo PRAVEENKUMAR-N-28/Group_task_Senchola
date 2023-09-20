@@ -80,25 +80,22 @@
 
 @media(max-width:1200px){
     .part_4_why_content{
-        display: flex;
-        flex-wrap: wrap;
+        display: block;
+        /* flex-wrap: wrap; */
         /* justify-content: space-between;/ */
+    }
+    .part_4_why{
+        padding: 30px;
+        padding-bottom:0px  ;
     }
 
     .img_part_4{
         width:340px;
         height: 340px;
-        margin-right: 120px;
+        margin-right: 0px;
     }
     .image_content_1{
-        background: rgba(255, 255, 255,0.6);
-        width: 290px;
-        padding:10px;
-        border-radius: 10px;
-        box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .5);
-        position: relative;
-        bottom: 160px;
-        left: 80px;
+       display: none;
     }
     .content_header_part{
         font-weight: 600;
@@ -114,7 +111,7 @@
     .content_part_4{
         font-size: 15px;
         font-weight: normal;
-        padding-right: 30px;
+        /* padding-right: 30px; */
     }
     .i_4_1{
        display: none;
@@ -123,6 +120,10 @@
     .i_4_2{
         display: none;
         
+    }
+    .why_cicrle_6{
+       display: none;
+    
     }
     
     

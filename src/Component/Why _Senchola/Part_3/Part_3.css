@@ -163,6 +163,10 @@
         bottom: 0px;
         z-index: 4;
     }
+    .part_3_why{
+        padding: 30px;
+        
+    }
 
     .card_center_why{
         position: relative;

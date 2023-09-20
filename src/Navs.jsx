@@ -15,7 +15,7 @@ function Navs() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             
-            <Nav.Link className='mt-1' as={Link} to="/Home" href="#Home">Home</Nav.Link>
+            <Nav.Link className='mt-1' as={Link} to="/" href="#Home">Home</Nav.Link>
             <Nav.Link className='mt-1' as={Link} to="/About" href="#about" >About us</Nav.Link>
             <Nav.Link  className='mt-1' href="#Services">Services</Nav.Link>
             <Nav.Link className='mt-1' as={Link} to="/Why_Senchola" href="#Whysenchola">Why Senchola</Nav.Link>
